@@ -1,0 +1,11 @@
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\dagon\I.S Softwares\C#\Calculator\Calculator\obj\Debug\Calculator.exe.config
